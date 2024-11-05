@@ -1,0 +1,162 @@
+{ 
+
+        type: 'plant', 
+        image: 'samambaia.jpg', 
+        name: 'Samambaia'
+    }, 
+
+    { 
+
+        type: 'plant', 
+        image: 'espadadesãojorge.jpg', 
+        name: 'Espada de São Jorge'
+    }, 
+
+    { 
+        type: 'plant', 
+        image: 'moreia.webp', 
+        name: 'Moreias' 
+    }, 
+
+    { 
+        type: 'plant', 
+        image: 'orelha-de-elefante.webp', 
+        name: 'Orelha-de-elefante'
+    }, 
+
+    { 
+        type: 'plant', 
+        image: 'Hera.webp', 
+        name: 'Hera'
+    }, 
+
+    { 
+        type: 'plant', 
+        image: 'irisdapraia.jpg', 
+        name: 'Íris Azul'
+    }, 
+
+    { 
+        type: 'plant', 
+        image: 'geranio.jfif', 
+        name: 'Gerânio'
+    }, 
+
+    { 
+        type: 'plant', 
+        image: 'jasmimfalso.jpg', 
+        name: 'Falso Jasmim'
+    }, 
+
+    { 
+        type: 'plant', 
+        image: 'cravo.webp', 
+        name: 'Cravo'
+
+    }, 
+
+    { 
+        type: 'plant', 
+        image: 'lavanda.webp', 
+        name: 'Lavanda'
+    }, 
+
+    { 
+
+        type: 'cat', 
+
+        image: 'siames.jpg', 
+
+        name: 'Siamês', 
+
+        color: 'Amarelo e Preto', 
+
+        sex: 'Masculino' 
+
+    }, 
+
+    { 
+
+        type: 'cat', 
+
+        image: 'sphynx.jpg', 
+
+        name: 'Sphynx', 
+
+        color: 'Branco', 
+
+        sex: 'Masculino' 
+
+    }, 
+
+    { 
+
+        type: 'fish', 
+
+        image: 'neon.jpg', 
+
+        name: 'Tetra Neon', 
+
+        color: 'Vermelho e Azul', 
+
+        sex: 'Masculino' 
+
+    }, 
+
+    { 
+
+        type: 'fish', 
+
+        image: 'matogrosso.jpg', 
+
+        name: 'Mato Grosso', 
+
+        color: 'Laranja', 
+
+        sex: 'Masculino' 
+
+    }, 
+
+    { 
+
+        type: 'fish', 
+
+        image: 'limpavidro.jpg', 
+
+        name: 'Limpa Vidro', 
+
+        color: 'Verde e Branco', 
+
+        sex: 'Masculino' 
+
+    }, 
+
+    { 
+
+        type: 'fish', 
+
+        image: 'tanictis.jpg', 
+
+        name: 'Tanictis', 
+
+        color: 'Vermelho', 
+
+        sex: 'Masculino' 
+
+    }, 
+
+    { 
+
+        type: 'fish', 
+
+        image: 'acara.jpg', 
+
+        name: 'Acará Bandeira', 
+
+        color: 'Preto', 
+
+        sex: 'Masculino' 
+
+    }, 
+
+ 
